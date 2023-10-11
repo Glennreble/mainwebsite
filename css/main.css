@@ -1,9 +1,9 @@
 * {
-    font-family: 'Inconsolata', monospace;
+    font-family: "Code";
 }
 
 b {
-    font-family: 'Inconsolata', monospace;
+    font-family: "Code";
     font-weight: 400;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 .title.header {
-    font-family: 'Inconsolata', monospace;
+    font-family: "Code";
 }
 
 .right.header {
