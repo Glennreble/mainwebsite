@@ -1,9 +1,9 @@
 * {
-    font-family: "Ubuntu";
+    font-family: 'Inconsolata', monospace;
 }
 
 b {
-    font-family: "Ubuntu Medium";
+    font-family: 'Inconsolata', monospace;
     font-weight: 400;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 .title.header {
-    font-family: "Ubuntu Medium";
+    font-family: 'Inconsolata', monospace;
 }
 
 .right.header {
