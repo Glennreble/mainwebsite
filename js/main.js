@@ -1,6 +1,6 @@
 let versions = {
-    date: "August 27, 2023",
-    ver : "0.6.4"
+    date: "today",
+    ver : "0.8"
 }
 
 let drawerActivated = false
@@ -17,7 +17,7 @@ function showDrawer() {
 
 document.getElementById("ftr").innerText = `
     ${versions.date}
-    Copyright 2023 princej69
+    Copyright 2023 Secret1000
     Version ${versions.ver}
 
 `
