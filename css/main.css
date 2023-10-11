@@ -1,9 +1,9 @@
 * {
-    font-family: "Condensed";
+    font-family: "Ubuntu";
 }
 
 b {
-    font-family: "Condensed Medium";
+    font-family: "Ubuntu Medium";
     font-weight: 400;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 .title.header {
-    font-family: "Condensed Medium";
+    font-family: "Ubuntu Medium";
 }
 
 .right.header {
